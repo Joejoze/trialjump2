@@ -1,2 +1,5 @@
 Tiger 
 Lion 
+Whale 
+Monkey
+Sheep
